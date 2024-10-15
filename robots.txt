@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://iveniisa.github.io/Gpi/sitemap_index.txt.gz
+Sitemap: https://iveniisa.github.io/GqP/sitemap_index.txt.gz
+Sitemap: https://iveniisa.github.io/WTy/sitemap_index.txt.gz
+Sitemap: https://iveniisa.github.io/jcn/sitemap_index.txt.gz
+Sitemap: https://iveniisa.github.io/nyg/sitemap_index.txt.gz
+Sitemap: https://iveniisa.github.io/sitemap/sitemap_index.txt.gz
